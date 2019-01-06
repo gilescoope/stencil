@@ -8,5 +8,5 @@ To use simply build to your ARCore compatible device. Once a wall is found you w
 
 - hold Spray/Wash to spray your paint/water
 - tap the eye in the top left to toggle view mode
-- tap the stencil in the bottom left to swtich your stencil
+- tap the stencil in the bottom left to switch your stencil
 - tap the circle in the bottom right to switch your paint colour or switch to wash
