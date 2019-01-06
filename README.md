@@ -1,2 +1,3 @@
-![stencil](https://imgur.com/HUr5LS4.png)
+![stencil](https://imgur.com/oXAuPug.png)
+
 Stencil AR experiment
